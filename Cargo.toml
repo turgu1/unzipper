@@ -1,0 +1,10 @@
+[package]
+name = "unzipper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+miniz_oxide = { version = "0.8.8", default-features = false }
+
+[dev-dependencies]
+test_support = { path = "./tests/test_support" }
