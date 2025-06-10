@@ -1,0 +1,783 @@
+Ok(
+    Specificity {
+        file name: "ebook.epub",
+        file_entries: [
+            (
+                "Fonts",
+                FileEntry {
+                    start_pos: 362001,
+                    compressed_size: 2,
+                    size: 0,
+                    method: 8,
+                },
+            ),
+            (
+                "Fonts/ELZEVIER_C.ttf",
+                FileEntry {
+                    start_pos: 523914,
+                    compressed_size: 25966,
+                    size: 32536,
+                    method: 8,
+                },
+            ),
+            (
+                "Fonts/LinBiolinum_R.otf",
+                FileEntry {
+                    start_pos: 365267,
+                    compressed_size: 66890,
+                    size: 124580,
+                    method: 8,
+                },
+            ),
+            (
+                "Fonts/LinLibertine_DR.otf",
+                FileEntry {
+                    start_pos: 549930,
+                    compressed_size: 78533,
+                    size: 135680,
+                    method: 8,
+                },
+            ),
+            (
+                "Fonts/LinLibertine_R.otf",
+                FileEntry {
+                    start_pos: 432210,
+                    compressed_size: 91650,
+                    size: 159912,
+                    method: 8,
+                },
+            ),
+            (
+                "Fonts/LinLibertine_RI.otf",
+                FileEntry {
+                    start_pos: 628518,
+                    compressed_size: 79219,
+                    size: 140128,
+                    method: 8,
+                },
+            ),
+            (
+                "Fonts/Swinging.ttf",
+                FileEntry {
+                    start_pos: 362039,
+                    compressed_size: 3180,
+                    size: 8540,
+                    method: 8,
+                },
+            ),
+            (
+                "Images",
+                FileEntry {
+                    start_pos: 331203,
+                    compressed_size: 2,
+                    size: 0,
+                    method: 8,
+                },
+            ),
+            (
+                "Images/By-sa.png",
+                FileEntry {
+                    start_pos: 331242,
+                    compressed_size: 8444,
+                    size: 8439,
+                    method: 8,
+                },
+            ),
+            (
+                "Images/qrcode.png",
+                FileEntry {
+                    start_pos: 339818,
+                    compressed_size: 484,
+                    size: 479,
+                    method: 8,
+                },
+            ),
+            (
+                "Images/spacer.gif",
+                FileEntry {
+                    start_pos: 339732,
+                    compressed_size: 39,
+                    size: 43,
+                    method: 8,
+                },
+            ),
+            (
+                "META-INF",
+                FileEntry {
+                    start_pos: 58,
+                    compressed_size: 2,
+                    size: 0,
+                    method: 8,
+                },
+            ),
+            (
+                "META-INF/container.xml",
+                FileEntry {
+                    start_pos: 99,
+                    compressed_size: 154,
+                    size: 244,
+                    method: 8,
+                },
+            ),
+            (
+                "about.xhtml",
+                FileEntry {
+                    start_pos: 81160,
+                    compressed_size: 1016,
+                    size: 2645,
+                    method: 8,
+                },
+            ),
+            (
+                "content.opf",
+                FileEntry {
+                    start_pos: 139557,
+                    compressed_size: 2544,
+                    size: 12472,
+                    method: 8,
+                },
+            ),
+            (
+                "cover.jpeg",
+                FileEntry {
+                    start_pos: 294388,
+                    compressed_size: 31759,
+                    size: 31949,
+                    method: 8,
+                },
+            ),
+            (
+                "credits.xhtml",
+                FileEntry {
+                    start_pos: 34423,
+                    compressed_size: 685,
+                    size: 1586,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_000.xhtml",
+                FileEntry {
+                    start_pos: 11074,
+                    compressed_size: 2933,
+                    size: 7075,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_001.xhtml",
+                FileEntry {
+                    start_pos: 39713,
+                    compressed_size: 2693,
+                    size: 6356,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_002.xhtml",
+                FileEntry {
+                    start_pos: 243991,
+                    compressed_size: 5041,
+                    size: 11991,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_003.xhtml",
+                FileEntry {
+                    start_pos: 17321,
+                    compressed_size: 3090,
+                    size: 7029,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_004.xhtml",
+                FileEntry {
+                    start_pos: 93226,
+                    compressed_size: 3190,
+                    size: 7316,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_005.xhtml",
+                FileEntry {
+                    start_pos: 75591,
+                    compressed_size: 5519,
+                    size: 13775,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_006.xhtml",
+                FileEntry {
+                    start_pos: 188355,
+                    compressed_size: 5833,
+                    size: 14316,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_007.xhtml",
+                FileEntry {
+                    start_pos: 146515,
+                    compressed_size: 5469,
+                    size: 13835,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_008.xhtml",
+                FileEntry {
+                    start_pos: 6329,
+                    compressed_size: 4695,
+                    size: 11390,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_009.xhtml",
+                FileEntry {
+                    start_pos: 61619,
+                    compressed_size: 5840,
+                    size: 14599,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_010.xhtml",
+                FileEntry {
+                    start_pos: 159242,
+                    compressed_size: 4620,
+                    size: 10900,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_011.xhtml",
+                FileEntry {
+                    start_pos: 152603,
+                    compressed_size: 2489,
+                    size: 5337,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_012.xhtml",
+                FileEntry {
+                    start_pos: 326187,
+                    compressed_size: 4966,
+                    size: 11686,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_013.xhtml",
+                FileEntry {
+                    start_pos: 230278,
+                    compressed_size: 3320,
+                    size: 7386,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_014.xhtml",
+                FileEntry {
+                    start_pos: 155142,
+                    compressed_size: 4050,
+                    size: 9465,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_015.xhtml",
+                FileEntry {
+                    start_pos: 25762,
+                    compressed_size: 8611,
+                    size: 22340,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_016.xhtml",
+                FileEntry {
+                    start_pos: 14057,
+                    compressed_size: 3214,
+                    size: 7218,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_017.xhtml",
+                FileEntry {
+                    start_pos: 264900,
+                    compressed_size: 11276,
+                    size: 30118,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_018.xhtml",
+                FileEntry {
+                    start_pos: 56515,
+                    compressed_size: 5054,
+                    size: 12085,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_019.xhtml",
+                FileEntry {
+                    start_pos: 260210,
+                    compressed_size: 4640,
+                    size: 11210,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_020.xhtml",
+                FileEntry {
+                    start_pos: 129339,
+                    compressed_size: 5170,
+                    size: 12427,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_021.xhtml",
+                FileEntry {
+                    start_pos: 96466,
+                    compressed_size: 5037,
+                    size: 12058,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_022.xhtml",
+                FileEntry {
+                    start_pos: 256073,
+                    compressed_size: 4087,
+                    size: 9464,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_023.xhtml",
+                FileEntry {
+                    start_pos: 142142,
+                    compressed_size: 4323,
+                    size: 10221,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_024.xhtml",
+                FileEntry {
+                    start_pos: 351573,
+                    compressed_size: 4587,
+                    size: 10651,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_025.xhtml",
+                FileEntry {
+                    start_pos: 101553,
+                    compressed_size: 6116,
+                    size: 15013,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_026.xhtml",
+                FileEntry {
+                    start_pos: 71986,
+                    compressed_size: 3555,
+                    size: 8010,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_027.xhtml",
+                FileEntry {
+                    start_pos: 67509,
+                    compressed_size: 3972,
+                    size: 9327,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_028.xhtml",
+                FileEntry {
+                    start_pos: 50487,
+                    compressed_size: 5978,
+                    size: 14840,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_029.xhtml",
+                FileEntry {
+                    start_pos: 174569,
+                    compressed_size: 3682,
+                    size: 8571,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_030.xhtml",
+                FileEntry {
+                    start_pos: 119508,
+                    compressed_size: 4421,
+                    size: 10748,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_031.xhtml",
+                FileEntry {
+                    start_pos: 170125,
+                    compressed_size: 4394,
+                    size: 10489,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_032.xhtml",
+                FileEntry {
+                    start_pos: 716544,
+                    compressed_size: 5314,
+                    size: 13307,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_033.xhtml",
+                FileEntry {
+                    start_pos: 178301,
+                    compressed_size: 5825,
+                    size: 14053,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_034.xhtml",
+                FileEntry {
+                    start_pos: 206800,
+                    compressed_size: 8015,
+                    size: 20032,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_035.xhtml",
+                FileEntry {
+                    start_pos: 707792,
+                    compressed_size: 5375,
+                    size: 13117,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_036.xhtml",
+                FileEntry {
+                    start_pos: 134559,
+                    compressed_size: 4185,
+                    size: 9666,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_037.xhtml",
+                FileEntry {
+                    start_pos: 713476,
+                    compressed_size: 3018,
+                    size: 6873,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_038.xhtml",
+                FileEntry {
+                    start_pos: 238608,
+                    compressed_size: 4774,
+                    size: 11063,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_039.xhtml",
+                FileEntry {
+                    start_pos: 184176,
+                    compressed_size: 4129,
+                    size: 9804,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_040.xhtml",
+                FileEntry {
+                    start_pos: 214865,
+                    compressed_size: 5867,
+                    size: 14209,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_041.xhtml",
+                FileEntry {
+                    start_pos: 35151,
+                    compressed_size: 4512,
+                    size: 10466,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_042.xhtml",
+                FileEntry {
+                    start_pos: 340349,
+                    compressed_size: 11174,
+                    size: 30507,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_043.xhtml",
+                FileEntry {
+                    start_pos: 20461,
+                    compressed_size: 5251,
+                    size: 12827,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_044.xhtml",
+                FileEntry {
+                    start_pos: 224693,
+                    compressed_size: 4668,
+                    size: 11022,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_045.xhtml",
+                FileEntry {
+                    start_pos: 280156,
+                    compressed_size: 7902,
+                    size: 19965,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_046.xhtml",
+                FileEntry {
+                    start_pos: 110323,
+                    compressed_size: 9135,
+                    size: 23595,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_047.xhtml",
+                FileEntry {
+                    start_pos: 305,
+                    compressed_size: 5974,
+                    size: 14449,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_048.xhtml",
+                FileEntry {
+                    start_pos: 163912,
+                    compressed_size: 6163,
+                    size: 15732,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_049.xhtml",
+                FileEntry {
+                    start_pos: 200824,
+                    compressed_size: 5926,
+                    size: 14213,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_050.xhtml",
+                FileEntry {
+                    start_pos: 356210,
+                    compressed_size: 5741,
+                    size: 13875,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_051.xhtml",
+                FileEntry {
+                    start_pos: 42456,
+                    compressed_size: 7981,
+                    size: 20119,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_052.xhtml",
+                FileEntry {
+                    start_pos: 86671,
+                    compressed_size: 6505,
+                    size: 15885,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_053.xhtml",
+                FileEntry {
+                    start_pos: 276226,
+                    compressed_size: 3880,
+                    size: 8938,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_054.xhtml",
+                FileEntry {
+                    start_pos: 123979,
+                    compressed_size: 5310,
+                    size: 13037,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_055.xhtml",
+                FileEntry {
+                    start_pos: 249082,
+                    compressed_size: 6941,
+                    size: 17966,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_056.xhtml",
+                FileEntry {
+                    start_pos: 233648,
+                    compressed_size: 4910,
+                    size: 11292,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_057.xhtml",
+                FileEntry {
+                    start_pos: 194238,
+                    compressed_size: 6536,
+                    size: 16112,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_058.xhtml",
+                FileEntry {
+                    start_pos: 288108,
+                    compressed_size: 6230,
+                    size: 15481,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_059.xhtml",
+                FileEntry {
+                    start_pos: 82217,
+                    compressed_size: 4404,
+                    size: 10373,
+                    method: 8,
+                },
+            ),
+            (
+                "epub_split_060.xhtml",
+                FileEntry {
+                    start_pos: 220782,
+                    compressed_size: 3861,
+                    size: 8655,
+                    method: 8,
+                },
+            ),
+            (
+                "last.xhtml",
+                FileEntry {
+                    start_pos: 243432,
+                    compressed_size: 519,
+                    size: 1119,
+                    method: 8,
+                },
+            ),
+            (
+                "licence.xhtml",
+                FileEntry {
+                    start_pos: 138794,
+                    compressed_size: 720,
+                    size: 1429,
+                    method: 8,
+                },
+            ),
+            (
+                "mimetype",
+                FileEntry {
+                    start_pos: 0,
+                    compressed_size: 20,
+                    size: 20,
+                    method: 0,
+                },
+            ),
+            (
+                "page_styles.css",
+                FileEntry {
+                    start_pos: 713217,
+                    compressed_size: 214,
+                    size: 872,
+                    method: 8,
+                },
+            ),
+            (
+                "stylesheet.css",
+                FileEntry {
+                    start_pos: 229411,
+                    compressed_size: 823,
+                    size: 4369,
+                    method: 8,
+                },
+            ),
+            (
+                "title.xhtml",
+                FileEntry {
+                    start_pos: 152034,
+                    compressed_size: 528,
+                    size: 1192,
+                    method: 8,
+                },
+            ),
+            (
+                "titlepage.xhtml",
+                FileEntry {
+                    start_pos: 71531,
+                    compressed_size: 410,
+                    size: 799,
+                    method: 8,
+                },
+            ),
+            (
+                "toc.ncx",
+                FileEntry {
+                    start_pos: 107719,
+                    compressed_size: 2567,
+                    size: 14345,
+                    method: 8,
+                },
+            ),
+        ],
+        current_file_entry: None,
+        current_file_header: None,
+    },
+)
