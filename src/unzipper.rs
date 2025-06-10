@@ -7,6 +7,8 @@
 //! It is designed to be efficient and easy to use, providing methods to open zip files, read file entries, and extract files into memory.
 #![allow(dead_code)]
 
+use log::debug;
+
 use core::fmt;
 use std::collections::HashMap;
 use std::fs::File;
@@ -14,7 +16,7 @@ use std::io::{Read, Seek, SeekFrom};
 use std::mem::size_of;
 use std::path::{Path, PathBuf};
 
-use miniz_oxide::inflate::stream::{InflateState, inflate};
+use miniz_oxide::inflate::stream::{inflate, InflateState};
 use miniz_oxide::{DataFormat, MZFlush};
 
 // File header:
@@ -517,14 +519,14 @@ impl Unzipper {
     /// # Returns
     /// None
     pub fn show_file_entries(&self) {
-        println!("---- Files available: ----");
+        debug!("---- Files available: ----");
         for (name, entry) in &self.file_entries {
-            println!(
+            debug!(
                 "pos: {:<7} zip size: {:<7} out size: {:<7} method: {:<1} name: <{}>",
                 entry.start_pos, entry.compressed_size, entry.size, entry.method, name
             );
         }
-        println!("[End of List]");
+        debug!("[End of List]");
     }
 
     /// Unzips a file from the archive into a bytes vector.
