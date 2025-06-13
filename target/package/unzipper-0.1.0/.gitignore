@@ -1,5 +1,0 @@
-/target/debug/
-/target/release/
-**/*.rs.bk
-Cargo.lock
-/target/CACHEDIR.TAG

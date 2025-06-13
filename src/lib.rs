@@ -6,3 +6,5 @@
 //! The unzipper is open-source and can be freely used and modified under the terms of the MIT license.
 
 pub mod unzipper;
+
+pub use unzipper::Unzipper;
